@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Shixing Xue"
+  name             : "SCIR"
   avatar           : "images/avatar.png"
-  bio              : "First-year PhD student at HIT-SCIR, Harbin Institute of Technology."
+  bio              : "PhD Student, SCIR, Harbin Institute of Technology."
   location         : "Harbin, China"
   employer         : "HIT-SCIR"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "15042258585@163.com"
+  googlescholar    :
+  email            : "xxshi@ir.hit.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

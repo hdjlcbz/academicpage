@@ -8,57 +8,53 @@ redirect_from:
   - /about.html
 ---
 
-<span class='anchor' id='about-me'></span>
+<span class="anchor" id="about-me"></span>
 
-I am **Shixing Xue**, a first-year PhD student in the School of Computer Science and Technology at Harbin Institute of Technology. I work in **HIT-SCIR** under [Prof. Weinan Zhang](https://homepage.hit.edu.cn/zhangweinan).
+I am a first-year PhD student in **HIT-SCIR, Harbin Institute of Technology**, advised by [Prof. Weinan Zhang](https://homepage.hit.edu.cn/zhangweinan).
 
-I earned my B.Eng. in **Artificial Intelligence** from **Northeastern University**. My research interests focus on **tactile embodied intelligence**, **world models**, **tactile reinforcement learning** for contact-rich manipulation, and **WAM**.
+My research interests include **tactile embodied intelligence** and **world models**, with a particular interest in tactile reinforcement learning for contact-rich manipulation and related WAM problems.
 
-If you would like a quick overview, the sections below cover my education, current work, and project highlights.
-
-<span class='anchor' id='news'></span>
+<span class="anchor" id="news"></span>
 
 # News
 
-- *2026.07*: I am refining this homepage and preparing a more complete English version of my academic profile.
-- *2026.07*: No formal publications yet. This section will be updated once results are ready.
+- *2026.07*: This homepage is being updated into a clean English academic site.
+- *2026.07*: I currently do not have formal publications yet.
 
-<span class='anchor' id='education'></span>
+<span class="anchor" id="education"></span>
 
 # Education
 
-- *2025.09 - present*, PhD student, School of Computer Science and Technology, Harbin Institute of Technology
-  - Working in HIT-SCIR
-  - Advisor: [Prof. Weinan Zhang](https://homepage.hit.edu.cn/zhangweinan)
-  - Research focus: tactile embodied intelligence, world models, tactile reinforcement learning
-- *2021.09 - 2025.06*, B.Eng. in Artificial Intelligence, Northeastern University
-  - School of Information Science and Engineering
-  - GPA: 3.933 / 5.0
-  - Rank: 8 / 65
+- *2023.09 - Now*, PhD Student, Harbin Institute of Technology, Harbin
+  - School of Computer Science and Technology
+  - HIT-SCIR
+- *2019.08 - 2023.06*, Undergraduate, Harbin Institute of Technology, Harbin
+  - Major: Artificial Intelligence
 
-<span class='anchor' id='experience'></span>
+<span class="anchor" id="experience"></span>
 
 # Experience
 
-- *2025.11 - 2026.07*, Algorithm Intern, Li Auto
-  - Worked on foundation-model and embodied-AI related research and engineering tasks.
-  - Focused on tactile perception, multimodal modeling, and policy learning for contact-rich manipulation.
-  - Supported data collection, model training, and experiments on real robotic platforms.
+- *2025.11 - 2026.07*, Algorithm Intern, Li Auto, Beijing
+  - Worked on foundation model and multimodal model related tasks.
+  - Focused on tactile embodied intelligence, spatial understanding, and policy learning.
 
-<span class='anchor' id='projects'></span>
+<span class="anchor" id="projects"></span>
 
 # Projects
 
-- [3DViT related work](https://mp.weixin.qq.com/s/baqnOgUPaGc-S3IXpn4M7g)
-  - Participated in 3DViT multimodal model work.
-  - Focused on 3D visual representation, multimodal feature modeling, and spatial understanding.
-  - This project is closely related to my interest in tactile embodied intelligence and world models.
+## 3DViT
 
-<span class='anchor' id='publications'></span>
+**Work during Li Auto**  
+[Project link](https://mp.weixin.qq.com/s/baqnOgUPaGc-S3IXpn4M7g)
+
+I participated in the 3DViT multimodal model project during my internship at Li Auto. The work focused on 3D visual representation, multimodal feature modeling, and spatial understanding, which also connects closely to my long-term research interests.
+
+<span class="anchor" id="publications"></span>
 
 # Publications
 
-I do not have any formal publications yet.
+I do not have formal publications yet.
 
 This section is reserved for future papers and preprints.
 
