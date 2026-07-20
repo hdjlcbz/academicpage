@@ -28,10 +28,7 @@ My Google Scholar profile is here: [Google Scholar](https://scholar.google.com/c
 # Education
 
 - *2023.09 - Now*, PhD Student, Harbin Institute of Technology, Harbin
-  - School of Computer Science and Technology
-  - HIT-SCIR
 - *2019.08 - 2023.06*, Undergraduate, Harbin Institute of Technology, Harbin
-  - Major: Artificial Intelligence
 
 <span class="anchor" id="experience"></span>
 
@@ -43,8 +40,10 @@ My Google Scholar profile is here: [Google Scholar](https://scholar.google.com/c
 
 # Projects
 
-- [3DViT](https://mp.weixin.qq.com/s/baqnOgUPaGc-S3IXpn4M7g)
-  - Work during Li Auto
+- **3DViT**  
+  A project on scalable 3D representation learning and multimodal fusion for spatial understanding.  
+  [Project link](https://mp.weixin.qq.com/s/baqnOgUPaGc-S3IXpn4M7g)  
+  Work during Li Auto.
 
 <span class="anchor" id="publications"></span>
 
