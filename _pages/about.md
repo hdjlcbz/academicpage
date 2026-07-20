@@ -27,7 +27,7 @@ My Google Scholar profile is here: [Google Scholar](https://scholar.google.com/c
 
 # Education
 
-- *2025.09 - present*, PhD Student, Harbin Institute of Technology, Harbin
+- *2025.09 - Now*, PhD Student, Harbin Institute of Technology, Harbin
 - *2021.09 - 2025.06*, B.Eng. in Artificial Intelligence, Northeastern University, Shenyang
 
 <span class="anchor" id="experience"></span>
@@ -40,10 +40,7 @@ My Google Scholar profile is here: [Google Scholar](https://scholar.google.com/c
 
 # Projects
 
-- **3DViT**  
-  A project on scalable 3D representation learning and multimodal fusion for spatial understanding.  
-  [Project link](https://mp.weixin.qq.com/s/baqnOgUPaGc-S3IXpn4M7g)  
-  Work during Li Auto.
+- **3DViT** [Project link](https://mp.weixin.qq.com/s/baqnOgUPaGc-S3IXpn4M7g) Work during Li Auto.
 
 <span class="anchor" id="publications"></span>
 
