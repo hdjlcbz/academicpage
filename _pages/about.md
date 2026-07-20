@@ -34,7 +34,7 @@ My Google Scholar profile is here: [Google Scholar](https://scholar.google.com/c
 
 # Experience
 
-- *2025.11 - 2026.07*, Algorithm Intern, Li Auto, Beijing
+- *2025.11 - 2026.07*, Foundation Model Algorithm Intern, Li Auto, Beijing
 
 <span class="anchor" id="projects"></span>
 
