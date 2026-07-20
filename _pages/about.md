@@ -38,19 +38,13 @@ My Google Scholar profile is here: [Google Scholar](https://scholar.google.com/c
 # Experience
 
 - *2025.11 - 2026.07*, Algorithm Intern, Li Auto, Beijing
-  - Worked on foundation model and multimodal model related tasks.
-  - Focused on tactile embodied intelligence, spatial understanding, and policy learning.
 
 <span class="anchor" id="projects"></span>
 
 # Projects
 
-## 3DViT
-
-**Work during Li Auto**  
-[Project link](https://mp.weixin.qq.com/s/baqnOgUPaGc-S3IXpn4M7g)
-
-I participated in the 3DViT multimodal model project during my internship at Li Auto. The work focused on 3D visual representation, multimodal feature modeling, and spatial understanding, which also connects closely to my long-term research interests.
+- [3DViT](https://mp.weixin.qq.com/s/baqnOgUPaGc-S3IXpn4M7g)
+  - Work during Li Auto
 
 <span class="anchor" id="publications"></span>
 
