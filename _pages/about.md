@@ -27,8 +27,8 @@ My Google Scholar profile is here: [Google Scholar](https://scholar.google.com/c
 
 # Education
 
-- *2023.09 - Now*, PhD Student, Harbin Institute of Technology, Harbin
-- *2019.08 - 2023.06*, Undergraduate, Harbin Institute of Technology, Harbin
+- *2025.09 - present*, PhD Student, Harbin Institute of Technology, Harbin
+- *2021.09 - 2025.06*, B.Eng. in Artificial Intelligence, Northeastern University, Shenyang
 
 <span class="anchor" id="experience"></span>
 
