@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Xingxue Shi | PhD Homepage"
+title                    : "Xingxue Shi (石兴学) | PhD Homepage"
 description              : ""
 repository               : "hdjlcbz/academicpage"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Xingxue Shi"
+  name             : "Xingxue Shi (石兴学)"
   avatar           : "images/avatar.png"
   bio              : "PhD Student, SCIR, Harbin Institute of Technology."
   location         : "Harbin, China"
