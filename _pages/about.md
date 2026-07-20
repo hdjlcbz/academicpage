@@ -14,6 +14,8 @@ I am a first-year PhD student in **HIT-SCIR, Harbin Institute of Technology**, a
 
 My research interests include **tactile embodied intelligence** and **world models**, with a particular interest in tactile reinforcement learning for contact-rich manipulation and related WAM problems.
 
+My Google Scholar profile is here: [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=YVD1Y-EAAAAJ).
+
 <span class="anchor" id="news"></span>
 
 # News
@@ -57,4 +59,3 @@ I participated in the 3DViT multimodal model project during my internship at Li 
 I do not have formal publications yet.
 
 This section is reserved for future papers and preprints.
-
