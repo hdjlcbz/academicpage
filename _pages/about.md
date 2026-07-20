@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Shixing Xue"
+title: "Xingxue Shi"
 excerpt: ""
 author_profile: true
 redirect_from:
