@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Xingxue Shi (石兴学)"
+title: "Xingxue Shi(石兴学)"
 excerpt: ""
 author_profile: true
 redirect_from:
