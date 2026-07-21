@@ -1,19 +1,19 @@
 # main links links
 main:
   - title: "About"
-    url: "{{ site.baseurl }}/#about-me"
+    url: "/#about-me"
 
   - title: "News"
-    url: "{{ site.baseurl }}/#news"
+    url: "/#news"
 
   - title: "Education"
-    url: "{{ site.baseurl }}/#education"
+    url: "/#education"
 
   - title: "Experience"
-    url: "{{ site.baseurl }}/#experience"
+    url: "/#experience"
 
   - title: "Projects"
-    url: "{{ site.baseurl }}/#projects"
+    url: "/#projects"
 
   - title: "Publications"
-    url: "{{ site.baseurl }}/#publications"
+    url: "/#publications"
