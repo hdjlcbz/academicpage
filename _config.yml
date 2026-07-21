@@ -9,6 +9,7 @@
 title                    : "Xingxue Shi(石兴学) | PhD Homepage"
 description              : ""
 repository               : "hdjlcbz/academicpage"
+baseurl                  : "/academicpage"
 google_scholar_stats_use_cdn : true
 
 # google analytics
