@@ -20,7 +20,7 @@ My Google Scholar profile is here: [Google Scholar](https://scholar.google.com/c
 
 # News
 
-- *2026.09*: **HERON-World**, an embodied world model project I contributed to, has been released. [Blog](https://scalabot.noetixrobotics.com/blog) | [Video](https://channels.weixin.qq.com/finder-preview/pages/sph?id=A1qLzxQlTN)
+- *2026.09*: **HERON-World**, an embodied world model project I contributed to, has been released. [Blog](https://scalabot.noetixrobotics.com/blog) / [Video](https://channels.weixin.qq.com/finder-preview/pages/sph?id=A1qLzxQlTN)
 - *2026.07*: This homepage is being updated into a clean English academic site.
 - *2026.07*: I currently do not have formal publications yet.
 
@@ -42,7 +42,7 @@ My Google Scholar profile is here: [Google Scholar](https://scholar.google.com/c
 
 # Projects
 
-- **HERON-World** An action-conditioned world model that predicts future videos from observations, task instructions, and candidate robot actions. [Blog](https://scalabot.noetixrobotics.com/blog) | [Video](https://channels.weixin.qq.com/finder-preview/pages/sph?id=A1qLzxQlTN) Work during Noetix Robotics.
+- **HERON-World** An action-conditioned world model that predicts future videos from observations, task instructions, and candidate robot actions. [Blog](https://scalabot.noetixrobotics.com/blog) / [Video](https://channels.weixin.qq.com/finder-preview/pages/sph?id=A1qLzxQlTN) Work during Noetix Robotics.
 - **3DViT** [Project link](https://mp.weixin.qq.com/s/baqnOgUPaGc-S3IXpn4M7g) Work during Li Auto.
 
 <span class="anchor" id="publications"></span>
