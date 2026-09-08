@@ -20,7 +20,7 @@ My Google Scholar profile is here: [Google Scholar](https://scholar.google.com/c
 
 # News
 
-- *2026.09*: **Heron-World Model**, which I contributed to, has been released. [Video](https://channels.weixin.qq.com/finder-preview/pages/sph?id=A1qLzxQlTN)
+- *2026.09*: We're excited to share **Heron-World Model**! [Video](https://channels.weixin.qq.com/finder-preview/pages/sph?id=A1qLzxQlTN)
 - *2026.07*: This homepage is being updated into a clean English academic site.
 - *2026.07*: I currently do not have formal publications yet.
 
