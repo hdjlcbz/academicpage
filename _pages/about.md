@@ -10,9 +10,11 @@ redirect_from:
 
 <span class="anchor" id="about-me"></span>
 
-I am a first-year PhD student in **HIT-SCIR, Harbin Institute of Technology**, advised by [Prof. Weinan Zhang](https://homepage.hit.edu.cn/zhangweinan).
+I am a second-year PhD student in **HIT-SCIR, Harbin Institute of Technology**, advised by [Prof. Weinan Zhang](https://homepage.hit.edu.cn/zhangweinan).
 
-My research interests include **tactile embodied intelligence** and **world models**, with a particular interest in tactile reinforcement learning for contact-rich manipulation and related WAM problems.
+My research interests include **tactile embodied intelligence**, **reinforcement learning**, and **world models**, with a particular focus on policy learning for contact-rich robotic manipulation and learning from tactile feedback.
+
+I have been invited to review for **ICML** and **IEEE Robotics and Automation Letters (RA-L)**.
 
 My Google Scholar profile is here: [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=YVD1Y-EAAAAJ).
 
