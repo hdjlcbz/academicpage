@@ -22,9 +22,9 @@ My Google Scholar profile is here: [Google Scholar](https://scholar.google.com/c
 
 # News
 
+- *2026.11*: Our work **NereidVLA: Learning to Understand and Navigate the Underwater World** is now available on [arXiv](https://arxiv.org/abs/2611.24864).
 - *2026.09*: We're excited to share **Heron-World Model**! [Video](https://channels.weixin.qq.com/finder-preview/pages/sph?id=A1qLzxQlTN)
 - *2026.07*: This homepage is being updated into a clean English academic site.
-- *2026.07*: I currently do not have formal publications yet.
 
 <span class="anchor" id="education"></span>
 
@@ -51,6 +51,6 @@ My Google Scholar profile is here: [Google Scholar](https://scholar.google.com/c
 
 # Publications
 
-I do not have formal publications yet.
-
-This section is reserved for future papers and preprints.
+- **[NereidVLA: Learning to Understand and Navigate the Underwater World](https://arxiv.org/abs/2611.24864)**<br>
+  Chenjie Zhao, Zhiliang Zhu, Quan Chen, Yuquan Xue, **Xingxue Shi**, Puyue Wang, Zhiqiang Zhao, Kangye Zheng, Boyang Xu, Mingwei Lin, and Dejun Li.<br>
+  *arXiv preprint, 2026.* [PDF](https://arxiv.org/pdf/2611.24864)
