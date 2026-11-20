@@ -53,4 +53,4 @@ My Google Scholar profile is here: [Google Scholar](https://scholar.google.com/c
 
 - **[NereidVLA: Learning to Understand and Navigate the Underwater World](https://arxiv.org/abs/2611.24864)**<br>
   Chenjie Zhao, Zhiliang Zhu, Quan Chen, Yuquan Xue, **Xingxue Shi**, Puyue Wang, Zhiqiang Zhao, Kangye Zheng, Boyang Xu, Mingwei Lin, and Dejun Li.<br>
-  *arXiv preprint, 2026.* [PDF](https://arxiv.org/pdf/2611.24864)
+  *arXiv preprint, 2026.*
